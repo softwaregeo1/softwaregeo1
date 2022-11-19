@@ -1,7 +1,7 @@
 - 👋 Hi, I’m George
 - 👀 I’m interested in software development
 - 🌱 I'm a Developer in  C#, JavaScript and Python 
-- and JavaScript
+
 - 📫 How to reach me softwaregeo98@gmail.com
 
 <!---
